@@ -1,1 +1,1 @@
-print("Cristian jotosahurrrrrr pinche putooo")
+print("Cristian jotosahurrrrrr pinche puto")
